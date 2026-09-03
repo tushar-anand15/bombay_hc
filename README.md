@@ -1,8 +1,6 @@
 # Bombay High Court Scraper
 
-A web scraper for the **Bombay High Court** website. It downloads cause lists and case data — case details, parties, and orders — for structured analysis of court records that are otherwise only viewable one case at a time.
-
-This scraper produced the dataset behind the study *[Do court vacations matter: evidence from the Bombay High Court](https://blog.theleapjournal.org/2024/09/do-court-vacations-matter-evidence-from.html)* (The Leap Blog, 2024).
+A web scraper for the **Bombay High Court** website. It downloads cause lists and case data — case details, parties, and orders — and saves them in a structured form.
 
 ## What it does
 
